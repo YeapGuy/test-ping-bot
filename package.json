@@ -1,0 +1,8 @@
+{
+  "name": "test-ping-bot",
+  "description": "Just to test Parker's egg abilities",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "11.5.1"
+  }
+}
